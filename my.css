@@ -39,6 +39,7 @@ p {
 }
 .card-footer {
     border-top: none;
+    background-color: #fff;
 }
 .card-footer h5 {
     margin-bottom: 20px;
