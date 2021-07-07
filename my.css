@@ -38,7 +38,7 @@ p {
     margin-top: 15px;
 }
 .card-footer {
-    border-top: none;
+    border-top: none; background-color: #fff;
 }
 .card-footer h5 {
     margin-bottom: 20px;
